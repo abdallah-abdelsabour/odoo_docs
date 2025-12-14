@@ -2,6 +2,7 @@
 
 **Module**: `pace2_integration`
 **Version**: 17.0
+
 **Dependencies**: base, base_setup, product, sale, purchase, stock, external_sales_person, route_master, account_edi, l10n_sa_edi
 
 ---
